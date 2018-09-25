@@ -3,7 +3,5 @@
 - how can 1 liter be measured?
 - how can 4 liters be measured?
 
-Implement a solution that would solve this problem and find the minimum amount of steps required to measure the desired amount of water (1 and 4 liters).
-Note that the program should find the shortest solution given only the information above, i.e. the volume of the unmarked bottles and the desired target amount.
-
-Provide the source code (including unit tests) and if necessary, a description of how to execute the code."
+Implemented solution solves this problem and finds the minimum amount of steps required to measure the desired amount of water (1 and 4 liters).
+Note that the program finds the shortest solution given only the information above, i.e. the volume of the unmarked bottles and the desired target amount.
